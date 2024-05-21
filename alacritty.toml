@@ -9,7 +9,9 @@ size = 18
 [font.normal]
 family = "MesloLGS NF"
 
+[window]
+option_as_alt = "OnlyLeft"
+
 [window.padding]
 x = 7
 y = 0
-
