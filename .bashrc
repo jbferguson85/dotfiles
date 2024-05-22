@@ -16,3 +16,7 @@ alias gs='git status'
 alias lg='lazygit'
 
 PS1='\w\$ '
+
+if [ -e ~/.privaterc ]; then
+	source "$HOME/.privaterc"
+fi
